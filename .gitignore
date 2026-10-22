@@ -1,0 +1,4 @@
+# Too big for GitHub (its index.pck is 175 MB; GitHub's limit is 100 MB). It still plays on this computer.
+games/jam/paper-town/
+.DS_Store
+__pycache__/
